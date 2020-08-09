@@ -1,1 +1,3 @@
-이 음식은 정말 맛있다.
+version https://git-lfs.github.com/spec/v1
+oid sha256:735b775f04d93d8d00d95df5daa6b3b29201fd4dd144b9dcfa5227aa692a17f6
+size 33
